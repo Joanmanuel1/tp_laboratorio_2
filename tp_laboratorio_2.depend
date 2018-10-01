@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1538362617 source:c:\users\katherine\documents\laboratorio_programacion\tp\tp_laboratorio_2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1538362616 c:\users\katherine\documents\laboratorio_programacion\tp\tp_laboratorio_2\utn.h
+
+1538365716 source:c:\users\katherine\documents\laboratorio_programacion\tp\tp_laboratorio_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"utn.h"
+	"empleado.h"
+
+1538362616 c:\users\katherine\documents\laboratorio_programacion\tp\tp_laboratorio_2\empleado.h
+
+1538365142 source:c:\users\katherine\documents\laboratorio_programacion\tp\tp_laboratorio_2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"utn.h"
+
